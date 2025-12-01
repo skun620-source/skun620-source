@@ -4,4 +4,5 @@
 
 <div>
   <img src="https://skillicons.dev/icons?i=unreal" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
 </div>
