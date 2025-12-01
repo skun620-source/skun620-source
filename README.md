@@ -3,6 +3,8 @@
 </p>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=unreal" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=unreal" />
 </div>
